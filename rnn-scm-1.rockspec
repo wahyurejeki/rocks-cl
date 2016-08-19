@@ -3,7 +3,7 @@ version = "scm-1"
 
 source = {
    url = "git://github.com/hughperkins/rnn",
-   tag = "add-opencl"
+   branch = "add-opencl"
 }
 
 description = {
