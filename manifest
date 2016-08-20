@@ -1,6 +1,13 @@
 commands = {}
 modules = {}
 repository = {
+   nn = {
+      ["scm-1"] = {
+         {
+            arch = "rockspec"
+         }
+      }
+   },
    torch = {
       ["7.scm-0"] = {
          {
