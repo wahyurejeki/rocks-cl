@@ -34,11 +34,4 @@ repository = {
          }
       }
    },
-   rnn = {
-      ["scm-1"] = {
-         {
-            arch = "rockspec"
-         }
-      }
-   },
 }
