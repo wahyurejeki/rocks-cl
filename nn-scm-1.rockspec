@@ -2,7 +2,7 @@ package = "nn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/hughperkins/nn.git",
+   url = "https://github.com/hughperkins/nn.git",
    branch = "distro-cl"
 }
 
