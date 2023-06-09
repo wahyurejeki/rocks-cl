@@ -5,7 +5,7 @@ The idea is to add this to the luarocks source servers path ahead of the main to
 
 ```
 rocks_servers = {
-   [[https://raw.githubusercontent.com/hughperkins/rocks-cl/master]],
+   [[https://raw.githubusercontent.com/wahyurejeki/rocks-cl/master]],
    [[https://raw.githubusercontent.com/torch/rocks/master]],
    [[https://raw.githubusercontent.com/rocks-moonscript-org/moonrocks-mirror/master]]
 }
