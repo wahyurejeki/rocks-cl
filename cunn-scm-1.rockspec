@@ -2,7 +2,7 @@ package = "cunn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/hughperkins/cunn.git",
+   url = "https://github.com/hughperkins/cunn.git",
    branch = "distro-cl2"
 }
 
