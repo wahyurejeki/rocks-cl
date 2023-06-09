@@ -2,7 +2,7 @@ package = "torch"
 version = "scm-1"
 
 source = {
-   url = "https://github.com/hughperkins/torch7.git",
+   url = "https://github.com/wahyurejeki/torch7.git",
    branch = "distro-cl"
 }
 
