@@ -2,7 +2,7 @@ package = "cutorch"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/hughperkins/cutorch.git",
+   url = "https://github.com/hughperkins/cutorch.git",
    branch = "distro-cl"
 }
 
